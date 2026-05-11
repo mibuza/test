@@ -1,2 +1,2 @@
 # test задание
-   n  nvgn
+   n  nvgnm
